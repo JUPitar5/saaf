@@ -1,0 +1,1198 @@
+{
+  "height": 13843,
+  "styles": {
+    "body": {
+      "tag": "BODY",
+      "cls": "template-index",
+      "text": "<iframe src=\"https://www.googletagmanager.com/ns.html?id=GTM-T53PHSF\" height=\"0\" width=\"0\" style=\"display:none;visibility:hidden\"></iframe>\n\n    \n    \n      \n    \n    \n    \n      \n        \n        \n          Infusedof Bioenergy\n        \n\n        \n   ",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1440,
+        "h": 13843.171875
+      },
+      "display": "block",
+      "position": "static",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgb(254, 247, 230)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".innerHeader": {
+      "tag": "DIV",
+      "cls": "innerHeader f",
+      "text": "Free shipping on all purchases of $35 or more Quebec and Ontario \n\n    \n  \n\n\n\n\n      \n\n\n  \n  \n    \n      \n    \n  \n\n  \n    \n      \n      \n        \n          Shop\n            \n          \n        \n      \n      \n        \n          Learn\n            \n    ",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1440,
+        "h": 109.515625
+      },
+      "display": "block",
+      "position": "fixed",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "5"
+    },
+    ".bandeau": {
+      "tag": "DIV",
+      "cls": "bandeau r",
+      "text": "Free shipping on all purchases of $35 or more Quebec and Ontario",
+      "rect": {
+        "x": 0,
+        "y": -28.71875,
+        "w": 1440,
+        "h": 28.71875
+      },
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(255, 255, 255)",
+      "bg": "rgb(43, 61, 115)",
+      "font": "15.12px / 15.12px \"Neue Montreal 2020\"",
+      "fontSize": "15.12px",
+      "lineHeight": "15.12px",
+      "padding": "7.56px 0px 6.048px",
+      "margin": "0px",
+      "border": "0px none rgb(255, 255, 255)",
+      "borderRadius": "0px",
+      "zIndex": "6"
+    },
+    ".header": {
+      "tag": "DIV",
+      "cls": "header flex flexSb flexCe",
+      "text": "Shop\n            \n          \n        \n      \n      \n        \n          Learn\n            \n          \n        \n      \n\n      \n        \n          \n            \n              \n            \n          \n        \n\n        \n        \n        \n          \n     ",
+      "rect": {
+        "x": 0,
+        "y": -132.875,
+        "w": 1440,
+        "h": 80.796875
+      },
+      "display": "flex",
+      "position": "relative",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "30px 38.88px 0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "5"
+    },
+    ".c-HomeHero-fond": {
+      "tag": "SECTION",
+      "cls": "c-HomeHero-fond jaune",
+      "text": "Mana - Drinking tea\n  \n\n    \n      \n        \n          \n          \n            \n              \n            \n            \n          \n          \n            \n            \n            \n          \n        \n      \n      \n        \n          \n          \n   ",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1440,
+        "h": 8320
+      },
+      "display": "block",
+      "position": "static",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgb(172, 208, 132)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".c-HomeHero--part1": {
+      "tag": "SECTION",
+      "cls": "c-HomeHero--part1 r",
+      "text": "GrapefruitGrapefruitBlackberry & HibiscusBlackberry & Hibiscus    Tropical        Tropical    Melon & MintMelon & Mint",
+      "rect": {
+        "x": 0,
+        "y": 0,
+        "w": 1440,
+        "h": 4000
+      },
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".mainCanvas": {
+      "tag": "DIV",
+      "cls": "mainCanvas f flex flexCe",
+      "text": "",
+      "rect": {
+        "x": 360,
+        "y": 6.8003997802734375,
+        "w": 720,
+        "h": 1000
+      },
+      "display": "flex",
+      "position": "fixed",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "3"
+    },
+    ".slider-navigation": {
+      "tag": "DIV",
+      "cls": "slider-navigation flex flexFe flexJCe r",
+      "text": "GrapefruitGrapefruitBlackberry & HibiscusBlackberry & Hibiscus    Tropical        Tropical    Melon & MintMelon & Mint",
+      "rect": {
+        "x": 389.15625,
+        "y": 1000,
+        "w": 661.671875,
+        "h": 101.421875
+      },
+      "display": "flex",
+      "position": "fixed",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px 0px 30px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "3"
+    },
+    ".sectionCercleH": {
+      "tag": "DIV",
+      "cls": "sectionCercle sectionCercleH h100 r",
+      "text": "Mana ? Yerba Maté ?What are we talking about?\n              (we're going to tell each other the real things)\n            \n          \n        \n\n        \n\n          \n        \n\n          \n        \n\n          \n          \n            \n              \n     ",
+      "rect": {
+        "x": 0,
+        "y": 3000,
+        "w": 1440,
+        "h": 1000
+      },
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".c-imagesDuo": {
+      "tag": "SECTION",
+      "cls": "shopify-section c-imagesDuo",
+      "text": "",
+      "rect": {
+        "x": 0,
+        "y": 8320,
+        "w": 1440,
+        "h": 1000
+      },
+      "display": "block",
+      "position": "static",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".c-wordParagraph": {
+      "tag": "SECTION",
+      "cls": "shopify-section c-wordParagraph negativ",
+      "text": "Flavors            \n    \n\n    \n      \n      \n      \n      \n    \n    \n    \n    \n  \n  \n    Fresh, fruity, sparkling, beautiful colours, awaken your taste buds.",
+      "rect": {
+        "x": 0,
+        "y": 9320,
+        "w": 1440,
+        "h": 371.796875
+      },
+      "display": "block",
+      "position": "static",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "auto"
+    },
+    ".c-HomeProducts": null,
+    "footer": {
+      "tag": "FOOTER",
+      "cls": "shopify-section c-Footer",
+      "text": "boost\n    \n  \n  \n    \n      ark...\n    \n  \n\n  \n    Press Space to jump\n  \n  \n    Jump key\n  \n\n\n  \n\n  \n    2026 © Mana Yerba Maté\n    \n    \n    \n    \n      \n        \n          Terms of use\n        \n          Refund policy\n        \n      \n      Credits",
+      "rect": {
+        "x": 0,
+        "y": 12843.171875,
+        "w": 1440,
+        "h": 1000
+      },
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(14, 14, 14)",
+      "bg": "rgba(0, 0, 0, 0)",
+      "font": "28.512px / 33.0739px \"Neue Montreal 2020\"",
+      "fontSize": "28.512px",
+      "lineHeight": "33.0739px",
+      "padding": "0px",
+      "margin": "0px",
+      "border": "0px none rgb(14, 14, 14)",
+      "borderRadius": "0px",
+      "zIndex": "2"
+    }
+  },
+  "sections": [
+    {
+      "id": "shopify-section-template--16245198946546__16488340274ae8161f",
+      "cls": "shopify-section c-HomeHero",
+      "text": "Mana - Drinking tea\nMelon & Mint\nMANA ? YERBA MATÉ ?\nWHAT ARE WE TALKING ABOUT?\n\n(we're going to tell each other the real things)\n\nWITHOUT THE CRASH\n\nA gentle wave of energy. To get you going without the crash.\n\nNATURAL CAFFEINE\n\nThis certified organic caffeine comes from the plant. A gift from Mother Nature.\n\nANTIOXIDANT\n\nRicher in antioxidants than tea. Not bad.\n\nVEGAN\n\nA plant-based drink that tastes like heaven. Who could ask for more?"
+    },
+    {
+      "id": "shopify-section-template--16245198946546__cd87ee4d-7e12-4763-8242-6882c2339a77",
+      "cls": "shopify-section c-imagesDuo",
+      "text": ""
+    },
+    {
+      "id": "shopify-section-template--16245198946546__16550399305c234bf4",
+      "cls": "shopify-section c-wordParagraph negativ",
+      "text": "FLAVORS\n\nFRESH, FRUITY, SPARKLING, BEAUTIFUL COLOURS, AWAKEN YOUR TASTE BUDS."
+    },
+    {
+      "id": "shopify-section-template--16245198946546__165495963445cbbcb2",
+      "cls": "shopify-section c-productsSlider",
+      "text": "Recommended products\nSee all our products\nBLACKBERRY & HIBISCUS\nTROPICAL\nDISCOVERY BOX\nMELON & MINT\nGRAPEFRUIT\nBLACKBERRY & HIBISCUS\nTROPICAL\nDISCOVERY BOX\nMELON & MINT\nGRAPEFRUIT\nBLACKBERRY & HIBISCUS"
+    },
+    {
+      "id": "shopify-section-template--16245198946546__1659709888bc2b0110",
+      "cls": "shopify-section c-newsletterSubscribe negativ",
+      "text": "Sign up for automatic delivery* and save 10%.\n\nSubscribe\n\nWE HAVE\nWHAT\nYOU NEED\n\n* We don't deliver in space yet, but who knows..."
+    },
+    {
+      "id": "shopify-section-template--16245198946546__16597268548730dd39",
+      "cls": "shopify-section c-instagramPush",
+      "text": "@MANAYERBAMATE\n\nFOR A DOSE OF ENERGY IN YOUR FEED."
+    },
+    {
+      "id": "shopify-section-footer",
+      "cls": "shopify-section c-Footer",
+      "text": "Press Space to jump\n\n2026 © Mana Yerba Maté\n\nTerms of use\nRefund policy\nCredits"
+    }
+  ],
+  "assets": [
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/menu-melon-new_340x280_crop_center.jpg?v=1717777779",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse_340x280_crop_center.jpg?v=1673106070",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mure_340x280_crop_center.jpg?v=1673106055",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropicale_340x280_crop_center.jpg?v=1673106087",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/menu-box-new_340x280_crop_center.jpg?v=1717777825",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Rectangle19_340x280_crop_center.jpg?v=1673106205",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Rectangle_20_1cd86e90-220b-43f8-bdbf-389953830b47_340x280_crop_center.jpg?v=1673106127",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Rectangle_21_969a0ca3-3087-4139-a9a8-23cd6ad8e82e_340x280_crop_center.jpg?v=1673106152",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Rectangle_22_067f698c-d7b2-4b59-b7ec-4b556e616fb3_340x280_crop_center.jpg?v=1673106179",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/menu-melon-new_340x280_crop_center.jpg?v=1717777779",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse_340x280_crop_center.jpg?v=1673106070",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mure_340x280_crop_center.jpg?v=1673106055",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropicale_340x280_crop_center.jpg?v=1673106087",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/menu-box-new_340x280_crop_center.jpg?v=1717777825",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_fb.svg?v=68381587284036742181658072963",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_li.svg?v=43608505387911094571658151063",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_ig.svg?v=10282452835697765731658072964",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond1.png?v=149618323740220866231671187960",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_bulles.svg?v=72037103063440429561671187963",
+      "alt": "",
+      "cls": "a bulles"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/woman.svg?v=91715481647345174191671187973",
+      "alt": "",
+      "cls": "woman a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond2.png?v=41305183148587079751671440160",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_planet.svg?v=54849484887763892781671187964",
+      "alt": "",
+      "cls": "a planet"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond3.png?v=175780116538271127791671187961",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_eau.svg?v=98947984976318104491671187963",
+      "alt": "",
+      "cls": "a eau"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/mangue.svg?v=79688881911116548501671187970",
+      "alt": "",
+      "cls": "mangue a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond4.png?v=179275072314952925911717784947",
+      "alt": "",
+      "cls": "a fond first"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_fleur.svg?v=5991018211529823811717768806",
+      "alt": "",
+      "cls": "a fleur"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond1.png?v=149618323740220866231671187960",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_bulles.svg?v=72037103063440429561671187963",
+      "alt": "",
+      "cls": "a bulles"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/woman.svg?v=91715481647345174191671187973",
+      "alt": "",
+      "cls": "woman a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond2.png?v=41305183148587079751671440160",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_planet.svg?v=54849484887763892781671187964",
+      "alt": "",
+      "cls": "a planet"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_star.svg?v=8304272578825160451671187964",
+      "alt": "",
+      "cls": "a star"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond3.png?v=175780116538271127791671187961",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_eau.svg?v=98947984976318104491671187963",
+      "alt": "",
+      "cls": "a eau"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/mangue.svg?v=79688881911116548501671187970",
+      "alt": "",
+      "cls": "mangue a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fond4.png?v=179275072314952925911717784947",
+      "alt": "",
+      "cls": "a fond"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/home_fleur.svg?v=5991018211529823811717768806",
+      "alt": "",
+      "cls": "a fleur"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": "rotate"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/bulle.svg?v=58686890748238671401671187957",
+      "alt": "",
+      "cls": "etoile etoileBulle a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/left_5a17133c-fc16-4907-af73-f964dc926e47_700x750_crop_center.jpg?v=1672091045",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/right_f9e5bdd5-3bee-41c9-996c-ee432de1bd0a_700x750_crop_center.jpg?v=1672091066",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/etoile.svg?v=158195823969694826041671187959",
+      "alt": "",
+      "cls": "etoile a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": "rotate"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_arrow.svg?v=94421465667069253611658072966",
+      "alt": "",
+      "cls": "rotate"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-01_1f205ae0-9697-4285-bb1b-88a2d02ce70d_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-01_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-01_600x490_crop_center_2x-_2_937b035e-e510-48a2-8a8d-fbeab24afbc7_827x980.jpg?v=1717776651",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/boite_827x980.jpg?v=1717776624",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/1-1eie_827x980.jpg?v=1717773433",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/2-1eie_827x980.jpg?v=1717773433",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse-01_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-01_1f205ae0-9697-4285-bb1b-88a2d02ce70d_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-01_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/tropical-01_600x490_crop_center_2x-_2_937b035e-e510-48a2-8a8d-fbeab24afbc7_827x980.jpg?v=1717776651",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/boite_827x980.jpg?v=1717776624",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/1-1eie_827x980.jpg?v=1717773433",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/2-1eie_827x980.jpg?v=1717773433",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse-01_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/pamplemousse-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-01_1f205ae0-9697-4285-bb1b-88a2d02ce70d_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "base a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/mures-02_827x980.jpg?v=1658150775",
+      "alt": "",
+      "cls": "hover a"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/fleur.png?v=52118480355285910701659712886",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Mana6064_250x250_crop_center.jpg?v=1661177117",
+      "alt": "",
+      "cls": "pushInsta a pushInsta0"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Mana6031_250x250_crop_center.jpg?v=1661177198",
+      "alt": "",
+      "cls": "pushInsta a pushInsta1"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Mana6004_250x250_crop_center.jpg?v=1661177127",
+      "alt": "",
+      "cls": "pushInsta a pushInsta2"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/files/Mana5969_250x250_crop_center.jpg?v=1661177108",
+      "alt": "",
+      "cls": "pushInsta a pushInsta3"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_ig.svg?v=10282452835697765731658072964",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_fb.svg?v=68381587284036742181658072963",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_li.svg?v=43608505387911094571658151063",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/i_ig.svg?v=10282452835697765731658072964",
+      "alt": "",
+      "cls": ""
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/nuage.svg?v=163894660680217809311675452546",
+      "alt": "",
+      "cls": "a nuage nuage1"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/nuage.svg?v=163894660680217809311675452546",
+      "alt": "",
+      "cls": "a nuage nuage2"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs1.svg?v=50063373221223748981675452547",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs2.svg?v=92900092378868097781675452547",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs3.svg?v=72943585234182417751675452548",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs4.svg?v=69056448281171495991675452548",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs5.svg?v=21989205102233504021675452549",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs6.svg?v=61996218548870648331675452549",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/obs7.svg?v=60513218436619096671675452550",
+      "alt": "",
+      "cls": "obstacle"
+    },
+    {
+      "src": "https://manayerbamate.com/cdn/shop/t/18/assets/canette.svg?v=118934674395227702821675452541",
+      "alt": "",
+      "cls": "canette"
+    }
+  ],
+  "links": [
+    {
+      "text": "",
+      "href": "/collections/all",
+      "cls": ""
+    },
+    {
+      "text": "",
+      "href": "/",
+      "cls": "gauche flex"
+    },
+    {
+      "text": "Shop",
+      "href": "/collections/all",
+      "cls": "toVolet btn btn50h offMob bounce"
+    },
+    {
+      "text": "",
+      "href": "/",
+      "cls": "sousMenuLogo"
+    },
+    {
+      "text": "",
+      "href": "/products/melon-et-menthe",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/products/pamplemousse",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/products/punch-tropical",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/products/boite-decouverte",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/pages/points-de-vente",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/pages/yerba-mate",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/pages/faq",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/pages/contactez-nous",
+      "cls": "h5 bounce2"
+    },
+    {
+      "text": "",
+      "href": "/collections/all",
+      "cls": "btn btnOmbre r current toAllProd"
+    },
+    {
+      "text": "Subscription",
+      "href": "/pages/abonnement",
+      "cls": "btn btn50h offMob r bounce"
+    },
+    {
+      "text": "En",
+      "href": "https://en.manayerbamate.com/",
+      "cls": "btn btnRond4 flex flexCe flexJCe offMob bounce lienChangeLangue  visibleFR"
+    },
+    {
+      "text": "Fr",
+      "href": "https://manayerbamate.com/",
+      "cls": "btn btnRond4 flex flexCe flexJCe offMob bounce lienChangeLangue  visibleEN"
+    },
+    {
+      "text": "",
+      "href": "/account",
+      "cls": "btn btnRond4 bounce"
+    },
+    {
+      "text": "Shop",
+      "href": "/collections/all",
+      "cls": ""
+    },
+    {
+      "text": "Melon & Mint",
+      "href": "/products/melon-et-menthe",
+      "cls": "h5"
+    },
+    {
+      "text": "Grapefruit",
+      "href": "/products/pamplemousse",
+      "cls": "h5"
+    },
+    {
+      "text": "Blackberry & Hibiscus",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "h5"
+    },
+    {
+      "text": "Tropical",
+      "href": "/products/punch-tropical",
+      "cls": "h5"
+    },
+    {
+      "text": "Discovery box",
+      "href": "/products/boite-decouverte",
+      "cls": "h5"
+    },
+    {
+      "text": "Subscription",
+      "href": "/pages/abonnement",
+      "cls": ""
+    },
+    {
+      "text": "Points of sale",
+      "href": "/pages/points-de-vente",
+      "cls": "h5"
+    },
+    {
+      "text": "Yerba Mate",
+      "href": "/pages/yerba-mate",
+      "cls": "h5"
+    },
+    {
+      "text": "FAQ",
+      "href": "/pages/faq",
+      "cls": "h5"
+    },
+    {
+      "text": "Contact",
+      "href": "/pages/contactez-nous",
+      "cls": "h5"
+    },
+    {
+      "text": "English",
+      "href": "https://en.manayerbamate.com/",
+      "cls": "petitLien lienChangeLangue visibleFR"
+    },
+    {
+      "text": "Français",
+      "href": "https://manayerbamate.com/",
+      "cls": "petitLien lienChangeLangue visibleEN"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/manayerbamate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/company/mana-yerba-mate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/manayerbamate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "GrapefruitGrapefruit",
+      "href": "/products/pamplemousse",
+      "cls": "btn btnOmbre r"
+    },
+    {
+      "text": "Blackberry & HibiscusBlackberry & Hibiscus",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "btn btnOmbre r btnOmbreBleu"
+    },
+    {
+      "text": "Tropical        Tropical",
+      "href": "/products/punch-tropical",
+      "cls": "btn btnOmbre r btnOmbreRouge"
+    },
+    {
+      "text": "Melon & Mint",
+      "href": "/products/melon-et-menthe",
+      "cls": "btn btnOmbre r btnOmbreVert current"
+    },
+    {
+      "text": "See all our products",
+      "href": "/collections/all",
+      "cls": "btn btn60 voirTout bounce"
+    },
+    {
+      "text": "BLACKBERRY & HIBISCUS",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "a"
+    },
+    {
+      "text": "TROPICAL",
+      "href": "/products/punch-tropical",
+      "cls": "a"
+    },
+    {
+      "text": "DISCOVERY BOX",
+      "href": "/products/boite-decouverte",
+      "cls": "a"
+    },
+    {
+      "text": "MELON & MINT",
+      "href": "/products/melon-et-menthe",
+      "cls": "a"
+    },
+    {
+      "text": "GRAPEFRUIT",
+      "href": "/products/pamplemousse",
+      "cls": "a"
+    },
+    {
+      "text": "BLACKBERRY & HIBISCUS",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "a"
+    },
+    {
+      "text": "TROPICAL",
+      "href": "/products/punch-tropical",
+      "cls": "a"
+    },
+    {
+      "text": "DISCOVERY BOX",
+      "href": "/products/boite-decouverte",
+      "cls": "a"
+    },
+    {
+      "text": "MELON & MINT",
+      "href": "/products/melon-et-menthe",
+      "cls": "a"
+    },
+    {
+      "text": "GRAPEFRUIT",
+      "href": "/products/pamplemousse",
+      "cls": "a"
+    },
+    {
+      "text": "BLACKBERRY & HIBISCUS",
+      "href": "/products/mure-et-hibiscus",
+      "cls": "a"
+    },
+    {
+      "text": "Subscribe",
+      "href": "/pages/abonnement",
+      "cls": "btn btnOmbre r current"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/manayerbamate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "",
+      "href": "https://www.facebook.com/manayerbamate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "",
+      "href": "https://www.linkedin.com/company/mana-yerba-mate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "",
+      "href": "https://www.instagram.com/manayerbamate/",
+      "cls": "btn btnOmbre btnRond3 r"
+    },
+    {
+      "text": "Terms of use",
+      "href": "/pages/conditions-dutilisation",
+      "cls": ""
+    },
+    {
+      "text": "Refund policy",
+      "href": "/pages/politique-de-remboursement",
+      "cls": ""
+    },
+    {
+      "text": "Louis Paquet",
+      "href": "https://twitter.com/lpaquet83",
+      "cls": ""
+    },
+    {
+      "text": "Michaël Garcia",
+      "href": "https://twitter.com/grc_michael",
+      "cls": ""
+    },
+    {
+      "text": "Pam",
+      "href": "https://twitter.com/workbypam",
+      "cls": ""
+    },
+    {
+      "text": "Jeff Clermont",
+      "href": "https://www.jeffclermont.ca",
+      "cls": ""
+    }
+  ]
+}

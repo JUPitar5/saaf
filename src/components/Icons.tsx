@@ -1,0 +1,8 @@
+import { asset } from '../lib/assets';
+
+export const Arrow = ({ rotate = false }: { rotate?: boolean }) => <img className={rotate ? 'rotate' : ''} src={asset('i_arrow.svg?v=94421465667069253611658072966')} alt="" />;
+export const CloseIcon = () => <svg width="20" height="21" viewBox="0 0 20 21" fill="none" aria-hidden="true"><path d="M2 2L18 19M18 2L2 19" stroke="currentColor" strokeWidth="1.4" /></svg>;
+export const PlusIcon = () => <svg fill="none" height="27" viewBox="0 0 27 27" width="27" aria-hidden="true"><g stroke="currentColor" strokeLinecap="round" strokeWidth="1.25"><path d="m.625 13.6691h25.75"/><path d="m13.6699 26.375v-25.75"/></g></svg>;
+export const UserIcon = () => <svg width="26" height="26" viewBox="0 0 26 26" fill="none" aria-hidden="true"><circle cx="13" cy="13" r="11.67" stroke="currentColor" strokeWidth="1.5"/><path d="M4 20.4s2.6-3.32 9-3.32 9 3.32 9 3.32" stroke="currentColor" strokeWidth="1.5"/><circle cx="13" cy="9.5" r="3.5" stroke="currentColor" strokeWidth="1.5"/></svg>;
+export const CartIcon = () => <svg width="25" height="25" viewBox="0 0 25 25" fill="none" aria-hidden="true"><path d="M7.8 4.7v1.55h14.85v3.1l-1.73 5.5H7.32L5.37.78H.78v1.56h3.23l1.95 14.07h16.11l2.15-6.82V4.69H7.8ZM8.64 17.99a3.13 3.13 0 1 0 0 6.25 3.13 3.13 0 0 0 0-6.25Zm0 1.56a1.56 1.56 0 1 1 0 3.12 1.56 1.56 0 0 1 0-3.12Zm10.94-1.56a3.13 3.13 0 1 0 0 6.25 3.13 3.13 0 0 0 0-6.25Zm0 1.56a1.56 1.56 0 1 1 0 3.12 1.56 1.56 0 0 1 0-3.12Z" fill="currentColor"/></svg>;
+export const Chevron = () => <svg className="fleche" width="12" height="7" viewBox="0 0 12 7" fill="none" aria-hidden="true"><path d="M5.47 6.53a.75.75 0 0 0 1.06 0l4.77-4.77a.75.75 0 1 0-1.06-1.06L6 4.94 1.76.7A.75.75 0 0 0 .7 1.76l4.77 4.77Z" fill="currentColor"/></svg>;
